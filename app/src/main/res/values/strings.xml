@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherMonitor</string>
+    <string name="open_weather_map_api_key">57d3734672aff5fbd70a003fb22be796</string>
+
+</resources>
